@@ -28,7 +28,7 @@ You can install using the pip package manager by running
 ```sh
 pip install pandas-profiling==2.9.0
 ```
-Activate the virtual envirnment. This is for generating the profiled output.
+Activate the virtual environment. This Python dependency is for generating the profiled output.
 Step 2: Clone the repo and 
 
 ```sh
