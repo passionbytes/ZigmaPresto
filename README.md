@@ -50,6 +50,6 @@ Thats all..enjoy...
   
    [df1]: <https://sqleo.sourceforge.io/>
    [Java11]: <https://www.oracle.com/java/technologies/javase-jdk11-downloads.html>
-   [LGPL]: <https://www.gnu.org/licenses/lgpl-3.0.en.html>
+   [LGPL]: <https://www.gnu.org/licenses/old-licenses/lgpl-2.0.en.html>
   
 
