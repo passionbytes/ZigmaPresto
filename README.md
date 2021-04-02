@@ -1,7 +1,7 @@
 # ZigmaPresto - Java Swing Based Query Builder for PrestoDB
 ### Presented at PrestoCon - 2021 by Ravishankar Nair
 
-
+#### Here is the recorded video presentation : [PrestoCon2021][mylink]
 
 Based on open source [SQLLeo][df1], ZigmaPresto is a Java Swing UI which allows drag and drop query builder from a single canvas, thus generating query for unified data. The canvas can show all tables/views from the disparate data sources configured as PrestoDB catalogs.
 
@@ -51,5 +51,6 @@ Thats all..enjoy...
    [df1]: <https://sqleo.sourceforge.io/>
    [Java11]: <https://www.oracle.com/java/technologies/javase-jdk11-downloads.html>
    [LGPL]: <https://www.gnu.org/licenses/old-licenses/lgpl-2.0.en.html>
+   [mylink]: <https://www.youtube.com/watch?v=Idtc7t93Q00&list=PLJVeO1NMmyqUDkrabo6CRGQ7zNTOMvu2L&index=18>
   
 
